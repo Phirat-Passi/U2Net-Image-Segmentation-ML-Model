@@ -7,8 +7,8 @@ One of the most important operations in Computer Vision is Segmentation. Image s
 Foreground-background separation is a image segmentation task, where the goal is to split the image into foreground and background. In semi-interactive settings, the user marks some pixels as “foreground”, a few others as “background”, and it’s up to the algorithm to classify the rest of the pixels.
 
 
-    1. Remove the background of an images uploaded
-    2. Improve the resolution of the image
-    3. Superimpose the product with the backgrounds provided
+    1. Background Remove
+    2. Improve Resolution 
+    3. Background Superimpose
 
 ![image]()
