@@ -10,4 +10,4 @@ Foreground-background separation is a image segmentation task, where the goal is
     2. Improve Resolution 
     3. Background Superimpose
 
-(![orrange bg removed](https://user-images.githubusercontent.com/67471222/184496439-1623474f-8c6e-4904-9d5c-2e403810b097.png)
+![orrange bg removed](https://user-images.githubusercontent.com/67471222/184496439-1623474f-8c6e-4904-9d5c-2e403810b097.png)
