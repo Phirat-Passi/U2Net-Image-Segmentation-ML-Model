@@ -25,8 +25,6 @@ After the pixel classifier is trained, the resulting pixels with the label corre
 The state-of-the-art methods used for the model building of semantic segmentation are ‘UNet’ and ‘DeepLab.’ Both architectures propose various techniques to acquire semantic segmentation, minimizing computational costs and maximizing accuracy.
 
    ![orrange bg removed](https://user-images.githubusercontent.com/67471222/184496439-1623474f-8c6e-4904-9d5c-2e403810b097.png)
-
-    Stepwise Procedure
     
     1. Background Removal   
     2. Improve Resolution 
