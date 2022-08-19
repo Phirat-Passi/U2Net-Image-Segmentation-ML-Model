@@ -8,6 +8,10 @@ The dawn of modern AI and machine learning has wholly altered the field of compu
 
 ![image](https://www.extremetech.com/wp-content/uploads/2015/07/NeuralNetwork-652x382.png)
 
+    Figure: Neural network architecture
+
+The concept of convolutional neural networks in deep learning has majorly impacted how everyday computer vision tasks were thought of and approached. The artificial neural networks require a tremendous amount of input data for training purposes
+
 # Background Image Processing 
 
 Foreground-background separation is a image segmentation task, where the goal is to split the image into foreground and background. In semi-interactive settings, the user marks some pixels as “foreground”, a few others as “background”, and it’s up to the algorithm to classify the rest of the pixels.
