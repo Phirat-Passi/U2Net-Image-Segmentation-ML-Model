@@ -2,9 +2,11 @@
 
 One of the most important operations in Computer Vision is Segmentation. Image segmentation is the task of clustering parts of an image together that belong to the same object class. This process is also called pixel-level classification. Here, it involves partitioning images (or video frames) into multiple complex segments or objects in order to produce optimum augmented images utilizing the U2Net and Rembg Image Proceesing Models with OpenVINO toolkit respectively.
 
-#Advanced Computer Vision 
+# Advanced Computer Vision 
 
 The dawn of modern AI and machine learning has wholly altered the field of computer vision. Unlike classical computer vision, which relies more on complex coded mathematical functions and transforms, modern computer vision is primarily based on artificial intelligence’s deep learning techniques to perform computer vision tasks. Deep learning is a sub-branch of machine learning concerned with algorithms majorly inspired by the functionality of the human brain. The algorithm of a deep learning model is referred to as an artificial neural network. 
+
+![image](https://www.extremetech.com/wp-content/uploads/2015/07/NeuralNetwork-652x382.png)
 
 # Background Image Processing 
 
