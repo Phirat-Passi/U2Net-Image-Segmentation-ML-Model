@@ -8,7 +8,7 @@ The dawn of modern AI and machine learning has wholly altered the field of compu
 
 ![image](https://www.extremetech.com/wp-content/uploads/2015/07/NeuralNetwork-652x382.png)
 
-    Figure: Neural network architecture
+    Figure: Neural network Architecture
 
 The concept of convolutional neural networks in deep learning has majorly impacted how everyday computer vision tasks were thought of and approached. The artificial neural networks require a tremendous amount of input data for training purposes.
 
