@@ -6,9 +6,9 @@ One of the most important operations in Computer Vision is Segmentation. Image s
 
 The dawn of modern AI and machine learning has wholly altered the field of computer vision. Unlike classical computer vision, which relies more on complex coded mathematical functions and transforms, modern computer vision is primarily based on artificial intelligence’s deep learning techniques to perform computer vision tasks. Deep learning is a sub-branch of machine learning concerned with algorithms majorly inspired by the functionality of the human brain. The algorithm of a deep learning model is referred to as an artificial neural network. 
 
-![image](https://www.extremetech.com/wp-content/uploads/2015/07/NeuralNetwork-652x382.png)
+![image](https://media.geeksforgeeks.org/wp-content/uploads/20220614121231/Group14.jpg)
 
-    Figure: Neural Network Architecture
+    Figure:  U-Net Architecture
 
 The concept of convolutional neural networks in deep learning has majorly impacted how everyday computer vision tasks were thought of and approached. The artificial neural networks require a tremendous amount of input data for training purposes.
 
